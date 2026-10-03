@@ -1,0 +1,4 @@
+# 개인 키/계좌번호가 들어있으므로 절대 깃허브에 올리지 마세요!
+config.json
+.token_cache.json
+__pycache__/
