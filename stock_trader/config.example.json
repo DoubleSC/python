@@ -1,0 +1,17 @@
+{
+    "app_key": "여기에_APP_KEY_입력",
+    "app_secret": "여기에_APP_SECRET_입력",
+    "account_no": "12345678-01",
+    "paper": true,
+
+    "auto": {
+        "dry_run": true,
+        "watch_list": ["005930", "000660"],
+        "budget_per_stock": 500000,
+        "short_ma": 5,
+        "long_ma": 20,
+        "stop_loss_pct": 5,
+        "take_profit_pct": 10,
+        "interval_sec": 60
+    }
+}
